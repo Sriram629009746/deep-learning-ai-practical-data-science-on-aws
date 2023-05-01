@@ -1,5 +1,6 @@
 # Practical-Data-Science-on-the-AWS-Cloud-Specialization
-* offered by **@DeepLearning.AI**
+* offered by **DeepLearning.AI**
+* Course Link : https://www.deeplearning.ai/courses/practical-data-science-specialization/
 
 # Courses:
 # 1. **Analyze Datasets and Train ML Models using AutoML**
